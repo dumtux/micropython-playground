@@ -17,12 +17,22 @@ while not station.isconnected():
 print("Connection successful")
 print(station.ifconfig())
 
+
 from microdot_asyncio import Microdot
 
 app = Microdot()
+
 
 @app.route('/')
 def index(request):
     return 'Hello, world!'
 
-app.run(port=80)
+
+def start_server():
+    print('Starting microdot app')
+    try:
+        app.run(port=80)
+    except:
+        app.shutdown()
+
+start_server()
