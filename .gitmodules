@@ -211,3 +211,12 @@
 [submodule "libs/ESP32-Wiznet-W500-Micropython"]
 	path = libs/ESP32-Wiznet-W500-Micropython
 	url = https://github.com/Ayyoubzadeh/ESP32-Wiznet-W500-Micropython
+[submodule "libs/esptool"]
+	path = libs/esptool
+	url = https://github.com/espressif/esptool
+[submodule "libs/ampy"]
+	path = libs/ampy
+	url = https://github.com/scientifichackers/ampy
+[submodule "libs/micropython"]
+	path = libs/micropython
+	url = https://github.com/micropython/micropython
