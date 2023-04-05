@@ -1,4 +1,4 @@
-# Micropython Experiment On ESP32-S3
+# Micropython experiments on ESP32, STM32, RP2040, and more
 
 
 ## Development Environment Setup
