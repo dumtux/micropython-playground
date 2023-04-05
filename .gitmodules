@@ -1,3 +1,6 @@
 [submodule "libs/microdot"]
 	path = libs/microdot
 	url = https://github.com/miguelgrinberg/microdot
+[submodule "libs/MicroPython-ST7735"]
+	path = libs/MicroPython-ST7735
+	url = https://github.com/boochow/MicroPython-ST7735
