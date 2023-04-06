@@ -1,222 +1,222 @@
 [submodule "libs/microdot"]
-	path = libs/microdot
+	path = lib/microdot
 	url = https://github.com/miguelgrinberg/microdot
 [submodule "libs/MicroPython-ST7735"]
-	path = libs/MicroPython-ST7735
+	path = lib/MicroPython-ST7735
 	url = https://github.com/boochow/MicroPython-ST7735
 [submodule "libs/micropython-mcp23017"]
-	path = libs/micropython-mcp23017
+	path = lib/micropython-mcp23017
 	url = https://github.com/mcauser/micropython-mcp23017
 [submodule "libs/micropython-i2s-examples"]
-	path = libs/micropython-i2s-examples
+	path = lib/micropython-i2s-examples
 	url = https://github.com/miketeachman/micropython-i2s-examples
 [submodule "libs/micropython-mcp2515"]
-	path = libs/micropython-mcp2515
+	path = lib/micropython-mcp2515
 	url = https://github.com/jxltom/micropython-mcp2515
 [submodule "libs/ucrypto"]
-	path = libs/ucrypto
+	path = lib/ucrypto
 	url = https://github.com/dmazzella/ucrypto
 [submodule "libs/tinydns"]
-	path = libs/tinydns
+	path = lib/tinydns
 	url = https://github.com/belyalov/tinydns
 [submodule "libs/wiznet_ioLibrary_Driver"]
-	path = libs/wiznet_ioLibrary_Driver
+	path = lib/wiznet_ioLibrary_Driver
 	url = https://github.com/andrewleech/wiznet_ioLibrary_Driver
 [submodule "libs/micropy-ENC28J60"]
-	path = libs/micropy-ENC28J60
+	path = lib/micropy-ENC28J60
 	url = https://github.com/przemobe/micropy-ENC28J60
 [submodule "libs/micropython-upyphone"]
-	path = libs/micropython-upyphone
+	path = lib/micropython-upyphone
 	url = https://github.com/jeffmer/micropython-upyphone
 [submodule "libs/micropython-sim800"]
-	path = libs/micropython-sim800
+	path = lib/micropython-sim800
 	url = https://github.com/olablt/micropython-sim800
 [submodule "libs/sim800"]
-	path = libs/sim800
+	path = lib/sim800
 	url = https://github.com/basanovase/sim800
 [submodule "libs/micropython-mdns"]
-	path = libs/micropython-mdns
+	path = lib/micropython-mdns
 	url = https://github.com/cbrand/micropython-mdns
 [submodule "libs/micropython-mqtt"]
-	path = libs/micropython-mqtt
+	path = lib/micropython-mqtt
 	url = https://github.com/peterhinch/micropython-mqtt
 [submodule "libs/Onewire_DS18X20"]
-	path = libs/Onewire_DS18X20
+	path = lib/Onewire_DS18X20
 	url = https://github.com/robert-hh/Onewire_DS18X20
 [submodule "libs/micropython-tinyrtc-i2c"]
-	path = libs/micropython-tinyrtc-i2c
+	path = lib/micropython-tinyrtc-i2c
 	url = https://github.com/mcauser/micropython-tinyrtc-i2c
 [submodule "libs/micropython-ds1302-rtc"]
-	path = libs/micropython-ds1302-rtc
+	path = lib/micropython-ds1302-rtc
 	url = https://github.com/omarbenhamid/micropython-ds1302-rtc
 [submodule "libs/DS3231micro"]
-	path = libs/DS3231micro
+	path = lib/DS3231micro
 	url = https://github.com/notUnique/DS3231micro
 [submodule "libs/WiFiManager"]
-	path = libs/WiFiManager
+	path = lib/WiFiManager
 	url = https://github.com/tayfunulu/WiFiManager
 [submodule "libs/Micropython-ESP-WiFi-Manager"]
-	path = libs/Micropython-ESP-WiFi-Manager
+	path = lib/Micropython-ESP-WiFi-Manager
 	url = https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager
 [submodule "libs/micropython-aioweb"]
-	path = libs/micropython-aioweb
+	path = lib/micropython-aioweb
 	url = https://github.com/wybiral/micropython-aioweb
 [submodule "libs/ZbPy"]
-	path = libs/ZbPy
+	path = lib/ZbPy
 	url = https://github.com/osresearch/ZbPy
 [submodule "libs/deshipu-micropython-ili9341"]
-	path = libs/deshipu-micropython-ili9341
+	path = lib/deshipu-micropython-ili9341
 	url = https://github.com/mcauser/deshipu-micropython-ili9341
 [submodule "libs/micropython-waveshare-epaper"]
-	path = libs/micropython-waveshare-epaper
+	path = lib/micropython-waveshare-epaper
 	url = https://github.com/mcauser/micropython-waveshare-epaper
 [submodule "libs/ssd1675a"]
-	path = libs/ssd1675a
+	path = lib/ssd1675a
 	url = https://github.com/mattytrentini/ssd1675a
 [submodule "libs/eink"]
-	path = libs/eink
+	path = lib/eink
 	url = https://github.com/chevdor/eink
 [submodule "libs/lv_binding_micropython"]
-	path = libs/lv_binding_micropython
+	path = lib/lv_binding_micropython
 	url = https://github.com/lvgl/lv_binding_micropython
 [submodule "libs/lcdi2c"]
-	path = libs/lcdi2c
+	path = lib/lcdi2c
 	url = https://github.com/slothyrulez/lcdi2c
 [submodule "libs/micropython-charlcd"]
-	path = libs/micropython-charlcd
+	path = lib/micropython-charlcd
 	url = https://github.com/rdagger/micropython-charlcd
 [submodule "libs/micropython-ili934x"]
-	path = libs/micropython-ili934x
+	path = lib/micropython-ili934x
 	url = https://github.com/tuupola/micropython-ili934x
 [submodule "libs/micropython-st7735"]
-	path = libs/micropython-st7735
+	path = lib/micropython-st7735
 	url = https://github.com/hosaka/micropython-st7735
 [submodule "libs/MicroPython_ST7735"]
-	path = libs/MicroPython_ST7735
+	path = lib/MicroPython_ST7735
 	url = https://github.com/AnthonyKNorman/MicroPython_ST7735
 [submodule "libs/SSD1963-TFT-Library-for-PyBoard-and-RP2040"]
-	path = libs/SSD1963-TFT-Library-for-PyBoard-and-RP2040
+	path = lib/SSD1963-TFT-Library-for-PyBoard-and-RP2040
 	url = https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040
 [submodule "libs/st7789_mpy"]
-	path = libs/st7789_mpy
+	path = lib/st7789_mpy
 	url = https://github.com/devbis/st7789_mpy
 [submodule "libs/micropython-max7219"]
-	path = libs/micropython-max7219
+	path = lib/micropython-max7219
 	url = https://github.com/mcauser/micropython-max7219
 [submodule "libs/micropython-ht1632c"]
-	path = libs/micropython-ht1632c
+	path = lib/micropython-ht1632c
 	url = https://github.com/vrialland/micropython-ht1632c
 [submodule "libs/micropython-ws2812"]
-	path = libs/micropython-ws2812
+	path = lib/micropython-ws2812
 	url = https://github.com/JanBednarik/micropython-ws2812
 [submodule "libs/deshipu-micropython-oled"]
-	path = libs/deshipu-micropython-oled
+	path = lib/deshipu-micropython-oled
 	url = https://github.com/mcauser/deshipu-micropython-oled
 [submodule "libs/MicroPython_SSD1306"]
-	path = libs/MicroPython_SSD1306
+	path = lib/MicroPython_SSD1306
 	url = https://github.com/AnthonyKNorman/MicroPython_SSD1306
 [submodule "libs/ads1x15"]
-	path = libs/ads1x15
+	path = lib/ads1x15
 	url = https://github.com/robert-hh/ads1x15
 [submodule "libs/deshipu-micropython-ads1015"]
-	path = libs/deshipu-micropython-ads1015
+	path = lib/deshipu-micropython-ads1015
 	url = https://github.com/mcauser/deshipu-micropython-ads1015
 [submodule "libs/micropython-ads1219"]
-	path = libs/micropython-ads1219
+	path = lib/micropython-ads1219
 	url = https://github.com/miketeachman/micropython-ads1219
 [submodule "libs/MicroPython-ADC_Cal"]
-	path = libs/MicroPython-ADC_Cal
+	path = lib/MicroPython-ADC_Cal
 	url = https://github.com/matthias-bs/MicroPython-ADC_Cal
 [submodule "libs/micropython-mcp230xx"]
-	path = libs/micropython-mcp230xx
+	path = lib/micropython-mcp230xx
 	url = https://github.com/ShrimpingIt/micropython-mcp230xx
 [submodule "libs/micropython-pcf8574"]
-	path = libs/micropython-pcf8574
+	path = lib/micropython-pcf8574
 	url = https://github.com/mcauser/micropython-pcf8574
 [submodule "libs/micropython-ad840x"]
-	path = libs/micropython-ad840x
+	path = lib/micropython-ad840x
 	url = https://github.com/dsiggi/micropython-ad840x
 [submodule "libs/Micropython-AD9833"]
-	path = libs/Micropython-AD9833
+	path = lib/Micropython-AD9833
 	url = https://github.com/KipCrossing/Micropython-AD9833
 [submodule "libs/Clock_Generators"]
-	path = libs/Clock_Generators
+	path = lib/Clock_Generators
 	url = https://github.com/Wei1234c/Clock_Generators
 [submodule "libs/Signal_Generators"]
-	path = libs/Signal_Generators
+	path = lib/Signal_Generators
 	url = https://github.com/Wei1234c/Signal_Generators
 [submodule "libs/deshipu-micropython-pca9685"]
-	path = libs/deshipu-micropython-pca9685
+	path = lib/deshipu-micropython-pca9685
 	url = https://github.com/mcauser/deshipu-micropython-pca9685
 [submodule "libs/ADXL345-with-Pyboard"]
-	path = libs/ADXL345-with-Pyboard
+	path = lib/ADXL345-with-Pyboard
 	url = https://github.com/AbhinayBandaru/ADXL345-with-Pyboard
 [submodule "libs/micropython-bme280"]
-	path = libs/micropython-bme280
+	path = lib/micropython-bme280
 	url = https://github.com/kevbu/micropython-bme280
 [submodule "libs/micropython-bmp180"]
-	path = libs/micropython-bmp180
+	path = lib/micropython-bmp180
 	url = https://github.com/micropython-IMU/micropython-bmp180
 [submodule "libs/Micropython-LC709203F"]
-	path = libs/Micropython-LC709203F
+	path = lib/Micropython-LC709203F
 	url = https://github.com/scopelemanuele/Micropython-LC709203F
 [submodule "libs/MAX30102-MicroPython-driver"]
-	path = libs/MAX30102-MicroPython-driver
+	path = lib/MAX30102-MicroPython-driver
 	url = https://github.com/n-elia/MAX30102-MicroPython-driver
 [submodule "libs/micropython-ov2640"]
-	path = libs/micropython-ov2640
+	path = lib/micropython-ov2640
 	url = https://github.com/namato/micropython-ov2640
 [submodule "libs/esp32-cam-micropython"]
-	path = libs/esp32-cam-micropython
+	path = lib/esp32-cam-micropython
 	url = https://github.com/shariltumin/esp32-cam-micropython
 [submodule "libs/micropythonINA219"]
-	path = libs/micropythonINA219
+	path = lib/micropythonINA219
 	url = https://github.com/kabel42/micropythonINA219
 [submodule "libs/MCP39F521"]
-	path = libs/MCP39F521
+	path = lib/MCP39F521
 	url = https://github.com/warpme/MCP39F521
 [submodule "libs/ATM90E26_Micropython"]
-	path = libs/ATM90E26_Micropython
+	path = lib/ATM90E26_Micropython
 	url = https://github.com/whatnick/ATM90E26_Micropython
 [submodule "libs/py-mpu6050"]
-	path = libs/py-mpu6050
+	path = lib/py-mpu6050
 	url = https://github.com/larsks/py-mpu6050
 [submodule "libs/micropython-mpu6886"]
-	path = libs/micropython-mpu6886
+	path = lib/micropython-mpu6886
 	url = https://github.com/tuupola/micropython-mpu6886
 [submodule "libs/deshipu-micropython-max31855"]
-	path = libs/deshipu-micropython-max31855
+	path = lib/deshipu-micropython-max31855
 	url = https://github.com/mcauser/deshipu-micropython-max31855
 [submodule "libs/XPT2046-touch-pad-driver"]
-	path = libs/XPT2046-touch-pad-driver
+	path = lib/XPT2046-touch-pad-driver
 	url = https://github.com/robert-hh/XPT2046-touch-pad-driver
 [submodule "libs/micropython-mcron"]
-	path = libs/micropython-mcron
+	path = lib/micropython-mcron
 	url = https://github.com/fizista/micropython-mcron
 [submodule "libs/micropython-aioschedule"]
-	path = libs/micropython-aioschedule
+	path = lib/micropython-aioschedule
 	url = https://github.com/ThinkTransit/micropython-aioschedule
 [submodule "libs/usqlite"]
-	path = libs/usqlite
+	path = lib/usqlite
 	url = https://github.com/spatialdude/usqlite
 [submodule "libs/uPyMySQL"]
-	path = libs/uPyMySQL
+	path = lib/uPyMySQL
 	url = https://github.com/dvrhax/uPyMySQL
 [submodule "libs/MicroWorkers"]
-	path = libs/MicroWorkers
+	path = lib/MicroWorkers
 	url = https://github.com/jczic/MicroWorkers
 [submodule "libs/rshell"]
-	path = libs/rshell
+	path = lib/rshell
 	url = https://github.com/dhylands/rshell
 [submodule "libs/ESP32-Wiznet-W500-Micropython"]
-	path = libs/ESP32-Wiznet-W500-Micropython
+	path = lib/ESP32-Wiznet-W500-Micropython
 	url = https://github.com/Ayyoubzadeh/ESP32-Wiznet-W500-Micropython
 [submodule "libs/esptool"]
-	path = libs/esptool
+	path = lib/esptool
 	url = https://github.com/espressif/esptool
 [submodule "libs/ampy"]
-	path = libs/ampy
+	path = lib/ampy
 	url = https://github.com/scientifichackers/ampy
 [submodule "libs/micropython"]
-	path = libs/micropython
+	path = lib/micropython
 	url = https://github.com/micropython/micropython
